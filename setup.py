@@ -11,6 +11,7 @@ setup(
     ],
     tests_require=[
         "pytest",
+        "codecov",
         "requests",
         "pytest-cov",
     ],
