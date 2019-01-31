@@ -1,5 +1,9 @@
 # decidim-pilot-connector
 
+[![Build Status](https://travis-ci.com/DECODEproject/decidim-pilot-connector.svg?branch=master)](https://travis-ci.com/DECODEproject/decidim-pilot-connector)
+[![codecov](https://codecov.io/gh/DECODEproject/decidim-pilot-connector/branch/master/graph/badge.svg)](https://codecov.io/gh/DECODEproject/decidim-pilot-connector)
+
+
 
 ## run
 
