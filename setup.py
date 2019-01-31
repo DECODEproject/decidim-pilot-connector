@@ -7,7 +7,9 @@ setup(
     author_email="puria@dyne.org",
     packages=find_packages(),
     install_requires=[
-        "fastapi", "pytest_runner",
+        "fastapi",
+        "pytest_runner",
+        "email-validator"
     ],
     tests_require=[
         "pytest",
